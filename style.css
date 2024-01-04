@@ -43,20 +43,3 @@ img {
     width: 100%;
     height: 100%;
 }
-
-/* ===== */
-
-.next-section {
-    background-color: #fff;
-    padding: 80px 10px;
-    text-align: center;
-}
-
-.next-section h1 {
-    font-size: 2rem;
-    margin-bottom: 20px;
-}
-
-.next-section p {
-    font-size: 1.2rem;
-}
